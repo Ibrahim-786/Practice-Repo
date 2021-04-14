@@ -1,0 +1,6 @@
+bosch
+continental
+kpit
+delphi
+aptiv
+denso
