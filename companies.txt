@@ -5,5 +5,3 @@ delphi
 aptiv
 denso
 
-
-
