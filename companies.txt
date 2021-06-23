@@ -4,8 +4,4 @@ kpit
 delphi
 aptiv
 denso
-abc
-lakmm
-kdmkwm
-kcnek
-cke
+
